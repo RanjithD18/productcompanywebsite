@@ -44,6 +44,12 @@ Publish the website in the given URL.
 
 ### Products Page:
 ![products](https://github.com/RanjithD18/productcompanywebsite/blob/main/Screenshot%20(35).png?raw=true)
+
+### People Page:
+![People](https://github.com/RanjithD18/productcompanywebsite/blob/main/Screenshot%20(36).png?raw=true)
+
+### Contactus Page:
+![contactus](https://github.com/RanjithD18/productcompanywebsite/blob/main/Screenshot%20(37).png?raw=true)
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.

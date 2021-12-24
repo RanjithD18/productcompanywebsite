@@ -48,7 +48,7 @@ Publish the website in the given URL.
 ### People Page:
 ![People](https://github.com/RanjithD18/productcompanywebsite/blob/main/Screenshot%20(36).png?raw=true)
 
-### Contactus Page:
+### Contact Us Page:
 ![contactus](https://github.com/RanjithD18/productcompanywebsite/blob/main/Screenshot%20(37).png?raw=true)
 ## Result:
 

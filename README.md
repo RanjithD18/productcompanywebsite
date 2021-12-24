@@ -473,7 +473,7 @@ body {
 ![People](https://github.com/RanjithD18/productcompanywebsite/blob/main/Screenshot%20(36).png?raw=true)
 
 ### Contact Us Page:
-![contactus](https://github.com/RanjithD18/productcompanywebsite/blob/main/Screenshot%20(37).png?raw=true)
+![contactus](https://github.com/RanjithD18/productcompanywebsite/blob/main/Screenshot%20(38).png?raw=true)
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.

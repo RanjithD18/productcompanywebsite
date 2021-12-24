@@ -310,6 +310,9 @@ Publish the website in the given URL.
             </div>
         </div>
        </div>
+       <div class="footer">
+        Copyright &#169; 2021 Avengers Private Limited, Developed by Ranjith D
+      </div>
     </div>
    </body>
 </html> 

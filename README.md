@@ -40,7 +40,7 @@ Publish the website in the given URL.
 
 ### Home Page:
 
-![output](./images/homepage.jpg)
+![output](https://github.com/RanjithD18/productcompanywebsite/blob/main/Screenshot%20(34).png?raw=true)
 
 ## Result:
 

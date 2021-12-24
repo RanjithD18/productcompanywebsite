@@ -40,8 +40,10 @@ Publish the website in the given URL.
 
 ### Home Page:
 
-![output](https://github.com/RanjithD18/productcompanywebsite/blob/main/Screenshot%20(34).png?raw=true)
+![Home](https://github.com/RanjithD18/productcompanywebsite/blob/main/Screenshot%20(34).png?raw=true)
 
+### Products Page:
+![products](https://github.com/RanjithD18/productcompanywebsite/blob/main/Screenshot%20(35).png?raw=true)
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
